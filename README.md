@@ -13,7 +13,7 @@
 
 ###
 <p align="left">
-  👋 Hi there! I'm currently pursuing a B.Tech in Computer Science Engineering from NSUT, Delhi.<br>
+  😊 I'm currently pursuing a B.Tech in Computer Science Engineering from NSUT, Delhi.<br>
   🚀 I'm passionate about <strong>Machine Learning</strong> and love solving problems using <strong>Data Structures & Algorithms</strong>.<br>
   💡 Always curious to learn new technologies and build impactful projects.<br>
   🌱 Currently exploring deep learning and contributing to open-source.<br>
@@ -64,9 +64,13 @@
 
 
 ### 🎮 Play my PAC-MAN Game!!!!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-
-👉 [Click here to play the full game!](https://your-username.github.io/pacman-game)
+👉 [Click here to play the full game!](https://anuradhapaswan1.github.io/pacman-game)
 ![Pac-Man Preview](https://your-domain.com/images/pacman-preview.gif)
 
 
